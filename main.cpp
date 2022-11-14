@@ -10,6 +10,6 @@ cin >> a >> b >> c;
 
 cout <<(a*b)/2 <<endl;
 cout << a*a <<endl;
-cout << b*b <<endl;
-cout << ((a*b)/2)*c <<endl;
+cout << a*b <<endl;
+cout << ((a+b)/2)*c <<endl;
 }
